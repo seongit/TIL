@@ -12,3 +12,6 @@
 
 ## 포스팅
 https://seongeun-it.tistory.com/entry/IPCInter-Process-Communication%EB%9E%80
+
+## 작성일
+2021.09.23
