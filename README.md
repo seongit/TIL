@@ -24,6 +24,7 @@ Today I Learned, 매일 1%씩 성장하기
 
 ## DataBase
 
+* [집계함수](https://github.com/seongit/TIL/blob/main/DataBase/%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.md)
 * [조인](https://github.com/seongit/TIL/blob/main/DataBase/%EC%A1%B0%EC%9D%B8.md)
 * [서브쿼리](https://github.com/seongit/TIL/blob/main/Data%20Base/%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md)
 <br>
