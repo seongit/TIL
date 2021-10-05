@@ -16,6 +16,7 @@ Today I Learned, 매일 1%씩 성장하기
 <br>
 
 ## CS
+* [UNIX](https://github.com/seongit/TIL/blob/main/CS/UNIX.md)
 * [OSI 7 layer](https://github.com/seongit/TIL/blob/main/CS/OSI%207%20layer.md)
 * [트랜잭션](https://github.com/seongit/TIL/blob/main/CS/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 * [IPC](https://github.com/seongit/TIL/blob/main/CS/IPC.md)
