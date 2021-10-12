@@ -16,6 +16,7 @@ Today I Learned, 매일 1%씩 성장하기
 <br>
 
 ## CS
+* [SOLID와 디자인패턴](https://github.com/seongit/TIL/blob/main/CS/SOLID%EC%99%80%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4.md)
 * [EAI 구축 유형](https://github.com/seongit/TIL/blob/main/CS/EAI%20%EA%B5%AC%EC%B6%95%20%EC%9C%A0%ED%98%95.md)
 * [프로토콜](https://github.com/seongit/TIL/commit/8795b3c5c50106d5574cecc738275afc1f6179da)
 * [테스트오라클](https://github.com/seongit/TIL/blob/main/CS/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%98%A4%EB%9D%BC%ED%81%B4.md)
