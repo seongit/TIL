@@ -16,6 +16,7 @@ Today I Learned, 매일 1%씩 성장하기
 <br>
 
 ## CS
+* [블랙박스 테스트](https://github.com/seongit/TIL/blob/main/CS/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 * [프로세스의 상태](https://github.com/seongit/TIL/blob/main/CS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EC%83%81%ED%83%9C.md)
 * [SOLID와 디자인패턴](https://github.com/seongit/TIL/blob/main/CS/SOLID%EC%99%80%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4.md)
 * [EAI 구축 유형](https://github.com/seongit/TIL/blob/main/CS/EAI%20%EA%B5%AC%EC%B6%95%20%EC%9C%A0%ED%98%95.md)
