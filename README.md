@@ -42,6 +42,7 @@ Today I Learned, 매일 1%씩 성장하기
 <br>
 
 ## JAVA
+* [try~with~resource](https://github.com/seongit/TIL/blob/main/JAVA/try~with~resource.md)
 * [정적바인딩,동적바인딩](https://github.com/seongit/TIL/blob/main/JAVA/%EB%8F%99%EC%A0%81%20%EB%B0%94%EC%9D%B8%EB%94%A9%EA%B3%BC%20%EC%A0%95%EC%A0%81%EB%B0%94%EC%9D%B8%EB%94%A9.md)
 * [for문](https://github.com/seongit/TIL/blob/main/JAVA/for%EB%AC%B8%EC%9D%98%20i%20%EC%99%80%20%ED%96%A5%EC%83%81%EB%90%9C%20for%EB%AC%B8%EC%9D%98%20i.md)
 * [연산자](https://github.com/seongit/TIL/blob/main/JAVA/%EC%97%B0%EC%82%B0%EC%9E%90.md)
@@ -49,5 +50,6 @@ Today I Learned, 매일 1%씩 성장하기
 <br>
 
 ## 알고리즘
+* [배열](https://github.com/seongit/TIL/blob/main/Algorithm/%EB%B0%B0%EC%97%B4.md)
 * [정렬](https://github.com/seongit/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC.md)
 * [하샤드 수](https://github.com/seongit/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.md)
