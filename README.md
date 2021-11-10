@@ -16,6 +16,7 @@ Today I Learned, 매일 1%씩 성장하기
 <br>
 
 ## CS
+* [기억장치](https://github.com/seongit/TIL/blob/main/Computer%20Science/%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98.md)
 * [C언어 기초](https://github.com/seongit/TIL/blob/main/CS/C%EC%96%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88.md)
 * [블랙박스 테스트](https://github.com/seongit/TIL/blob/main/CS/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 * [프로세스의 상태](https://github.com/seongit/TIL/blob/main/CS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EC%83%81%ED%83%9C.md)
