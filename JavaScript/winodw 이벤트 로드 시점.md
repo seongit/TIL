@@ -41,3 +41,7 @@ Ref. [https://developer.mozilla.org/ko/docs/Web/API/Window/unload_event](https:/
 - 이벤트 발생 시점에 문서 확인 X, UI 상호작용 효과 X, 오류가 발생해도 언로딩 절차 중단 X
 
 📌 사용자가 진짜 떠나기 전에 사용자 분석 정보를 담은 통계자료를 전송하고자 할 때
+
+
+#### 작성일
+2021.12.06
