@@ -56,3 +56,8 @@ Today I Learned, 매일 1%씩 성장하기
 * [배열](https://github.com/seongit/TIL/blob/main/Algorithm/%EB%B0%B0%EC%97%B4.md)
 * [정렬](https://github.com/seongit/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC.md)
 * [하샤드 수](https://github.com/seongit/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.md)
+
+
+<br>
+## JavaScript
+* [window 이벤트 로드 시점](https://github.com/seongit/TIL/blob/main/JavaScript/winodw%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%A1%9C%EB%93%9C%20%EC%8B%9C%EC%A0%90.md)
