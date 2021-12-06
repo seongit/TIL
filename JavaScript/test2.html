@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>
+      window Blur and Focus method
+    </title>
+    <style>
+        body {
+            text-align: center;
+        }
+          
+        .gfg {
+            font-size: 40px;
+            font-weight: bold;
+            color: green;
+        }
+    </style>
+</head>
+  
+<body>
+    <div class="gfg">GeeksforGeeks</div>
+    <h2>Blur and Focus</h2>
+    <script>
+        var Window;
+  
+        // Function that open the new Window 
+        function windowOpen() {
+            Window = window.open(
+              "https://www.geeksforgeeks.org/",
+                "_blank", "width=400, height=450");
+        }
+  
+        // function that Closes the open Window 
+        function windowClose() {
+            Window.close();
+        }
+  
+        //function that blur the open Window
+        function windowBlur() {
+            Window.blur();
+        }
+  
+        //function that focus on open Window
+        function windowFocus() {
+            Window.focus();
+        }
+    </script>
+    <button onclick="windowOpen()">
+      Open GeeksforGeeks
+    </button>
+    <button onclick="windowBlur()">
+      Blur GeeksforGeeks
+    </button>
+    <button onclick="windowFocus()">
+      Focus GeeksforGeeks
+    </button>
+    <button onclick="windowClose()">
+      Close GeeksforGeeks
+     </button>
+</body>
+  
+</html>

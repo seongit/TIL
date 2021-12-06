@@ -7,6 +7,7 @@
     <title>Document</title>
     <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <script>
+        var objPopup; //전역변수 선언
         
         $(document).ready(function(){
         console.log('1.jq - document ready');
@@ -17,44 +18,67 @@
         console.log('1.jq - function');
         });
 
+        document.addEventListener('DOMContentLoaded', (event) => {console.log('2-1. document DOM load : 이미지 미포함 페이지 로드 완료')});
                 
         window.addEventListener('DOMContentLoaded', (event) => {
-        console.log('2.DOM load : 이미지 미포함 페이지 로드 완료');
-        alert('DOM load 완료')
+            console.log('2-2. window DOM load : 이미지 미포함 페이지 로드 완료');
+            alert('DOM load 완료')
         });
 
         window.addEventListener('beforeunload', (event) => {
         // 표준에 따라 기본 동작 방지
         event.preventDefault();
         // Chrome에서는 returnValue 설정이 필요함
-        event.returnValue = console.log('7.window창을 나가기 직전: beforeunload');
+        event.returnValue = console.log('7.window창을 나가기 직전: beforeunload')
 
         });
 
-
+        document.addEventListener('unload', (event) => {
+            closePopup();
+        });
      
-        window.addEventListener("load", function(event) {
-            console.log("4.load : 이미지 포함 전체 페이지 로드 완료!");
+        window.addEventListener("load", function(event){
+            console.log("5.load : 이미지 포함 전체 페이지 로드 완료!");
+            objPopup=window.open("/test2.html","popup","width=200,height=200");
+            
         });
 
+        function Myclose(){
+            alert('close');
+            window.close();
+        }
 
         // // 현재 상태
         // console.log(document.readyState);
 
         // // 상태 변경 출력
         // document.addEventListener('readystatechange', () => console.log(document.readyState));
-   
+        //window.addEventListener('error', (event) => {console.log("error event")});
+
+        //window.addEventListener('message', (event) => {console.log(`Received message: ${event.data}`);});
+
+        window.addEventListener('resize', function() { console.log('Resizing...')}, true);
+
+        window.addEventListener('scroll', function(e) {console.log('Srolling..')});
+
+        let analyticsData = { /* 분석 정보가 담긴 객체 */ };
         
+        function closePopup(){
+             if(objPopup!= null) objPopup.close();
+        }
+
     </script>
+<style>div{height:2000px}</style>
 </head>
 <body onload="console.log('6.html> body onload...');">
 
     <img src="http://en.js.cx/clipart/train.gif?speed=1&cache=0" id="img" style="position:absolute;right:0;top:0">
     <script>
-       img.onload = () => console.log('5.img onload');
+       img.onload = () => console.log('4.img onload');
     </script>
-
-<input type='button' id="btn" value="테스트버튼"></input>
-
+    
+<div>
+    <a href='javascript:Myclose();'>닫기</a>
+</div>
 </body>
 </html>
