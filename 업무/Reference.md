@@ -12,3 +12,7 @@
 - [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 - [브라우저는 어떻게 동작하는가](https://d2.naver.com/helloworld/59361)
+
+## 요약
+
+- [CSR과 SSR](https://seongeun-it.tistory.com/262)
