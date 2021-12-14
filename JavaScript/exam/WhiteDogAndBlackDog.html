@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhiteDog And BlackDog</title>
+
+    <script>   
+        
+        function BlackDog(){
+            this.name = '🐶🤍';
+            return {
+                name : '🐶🖤',
+                bark : function(){
+                    console.log(this.name + ': 멍멍!');
+                }
+            }
+        }
+        
+        const blackDog = new BlackDog();
+        blackDog.bark();
+        // 결과 🐶🖤 : 멍멍!
+        
+        function WhiteDog(){
+            this.name = '🐶🤍';
+            return {
+                name : '🐶🖤',
+                bark : () => {
+                    console.log(this.name + ': 멍멍!');
+                }
+            }
+        }
+    
+        const whiteDog = new WhiteDog();
+        whiteDog.bark();
+        // 결과 🐶🤍 : 멍멍!
+
+    </script>
+</head>
+<body>
+
+    
+</body>
+</html>
+
+
