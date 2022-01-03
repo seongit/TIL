@@ -1,7 +1,7 @@
 ## JS 주요 개념 Scrap
 
 ### 포스팅
-https://seongeun-it.tistory.com/249
+http://100.20.209.25:81/redmine/projects/sekim/wiki/JavaScript
 
 ### Youtube
 https://www.youtube.com/watch?v=Y3_2BLb3hz8
