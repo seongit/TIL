@@ -1,7 +1,7 @@
 ## JS 주요 개념 Scrap
 
 ### 포스팅
-https://seongeun-it.tistory.com/manage/posts/
+http://100.20.209.25:81/redmine/projects/sekim/wiki/JavaScript
 
 ### Youtube
 https://www.youtube.com/watch?v=Y3_2BLb3hz8
@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=Y3_2BLb3hz8
 이벤트 핸들러는 다른 함수를 호출하는 역할만하는 것이 바람직하다.
 
 #### 작성일
-2021.12.06
+2022.01.03
