@@ -57,3 +57,6 @@ SOLID를 설명하기 이전에, 과학자들은 OOP를 잘 하기 위한 방법
 9. 반복자
 10. 전략
 11. 템플릿 메소드
+
+### Ref.
+https://brunch.co.kr/magazine/figma#
