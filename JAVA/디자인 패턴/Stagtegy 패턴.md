@@ -5,5 +5,7 @@
 동일 계열의 알고리즘군을 정의하고, 각 알고리즘을 캡슐화하며 
 이들을 상호교환이 가능하도록 만든다.
 
+Strategy 패턴을 사용하면 Strategy 역할의 인터페이스 API를 변경하지 않도록 주의하고, concreateStrategy의 역할만을 수정하면 됩니다.
+더욱이 위임이라는 느슨한 연결을 사용하고 있으므로 알고리즘을 용이하게 교환할 수 있습니다. 
 
 https://www.youtube.com/watch?v=vNsZXC3VgUA
