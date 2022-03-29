@@ -16,4 +16,4 @@ BPS는 Bit Per Second, CPS는 Character Per Second의 약자로 각각 초당 �
 
 byte : -128 ~ 12 
 short : -32,xxx ~ 32,xxx
-int : -2억,xxx ~ 2억,xxx
+int : -20억,xxx ~ 20억,xxx
