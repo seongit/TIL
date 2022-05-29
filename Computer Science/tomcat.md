@@ -7,3 +7,4 @@ default.config < 이건 tomcat이 직접적으로 관련됨
 
 로컬 톰캣에 ssl 적용
 server.xml 수정
+hosts 파일 수정
