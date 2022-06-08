@@ -1,8 +1,8 @@
 ## 2021.11.22(월)
 
 ### GCD LCM
-GCD : 최대공약수
-LCM : 최소공배수
+GCD (Greatest Common Divisor): 최대공약수
+LCM (Lowest Common Multiple) : 최소공배수
 
 
 #### 💡 풀이 아이디어
