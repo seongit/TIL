@@ -6,5 +6,5 @@ nginx.config < nginx과 직접적으로 관련되는 환경 설정
 default.config < 이건 tomcat이 직접적으로 관련됨
 
 로컬 톰캣에 ssl 적용
-server.xml 수정
+server.xml 수정 * hosts 파일에서 설정한 도메인과 일치해야함
 hosts 파일 수정
