@@ -7,4 +7,5 @@ default.config < 이건 tomcat이 직접적으로 관련됨
 
 로컬 톰캣에 ssl 적용
 server.xml 수정 * hosts 파일에서 설정한 도메인과 일치해야함
-hosts 파일 수정
+hosts 파일 수정 * ip + 원하는 도메인 설정
+E.g 10.160.xx.xx test.도메인~
