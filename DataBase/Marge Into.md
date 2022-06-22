@@ -6,4 +6,4 @@ MERGE문장은 우리가 흔히 사용하는 매우 강력한 UPDATE + INSERT + 
            이하를 실행하게 되고, 없으면 WHEN NOT METCHED 이하를 실행합니다.
    WHEN MATCHED : ON의 조건이 TRUE인 row에 수행할 내용
    WHEN NOT MATCHED : ON의 조건에 맞는 row가 없을 때 수행할 내용
-   * update, insert 후에 table명이 없다. -> 위에서 정의한 target table에 update, insert하는것이기 때문입니다.
+   * update, insert 후에 table명이 없다. -> 위에서 정의
