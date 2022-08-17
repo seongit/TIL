@@ -45,6 +45,7 @@ Today I Learned, 매일 1%씩 성장하기
 <br>
 
 ## JAVA
+* [JAVA][https://github.com/seongit/TIL/tree/main/JAVA]
 * [try~with~resource](https://github.com/seongit/TIL/blob/main/JAVA/try~with~resource.md)
 * [정적바인딩,동적바인딩](https://github.com/seongit/TIL/blob/main/JAVA/%EB%8F%99%EC%A0%81%20%EB%B0%94%EC%9D%B8%EB%94%A9%EA%B3%BC%20%EC%A0%95%EC%A0%81%EB%B0%94%EC%9D%B8%EB%94%A9.md)
 * [for문](https://github.com/seongit/TIL/blob/main/JAVA/for%EB%AC%B8%EC%9D%98%20i%20%EC%99%80%20%ED%96%A5%EC%83%81%EB%90%9C%20for%EB%AC%B8%EC%9D%98%20i.md)
