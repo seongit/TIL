@@ -1,0 +1,1 @@
+OLTP란 “Online Transaction Processing”의 줄임말로, OLTP시스템은 말 그대로 온라인 트랜잭션 처리하는 시스템을 말한다. 온라인 트랜잭션을 일반적으로 소량의 데이터를 읽고 갱신한다. 
