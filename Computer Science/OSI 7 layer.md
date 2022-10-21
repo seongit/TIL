@@ -14,4 +14,4 @@ https://seongeun-it.tistory.com/entry/OSI-7-%EC%B0%B8%EC%A1%B0-%EB%AA%A8%EB%8D%B
 <br>
 
 ### 작성일
-2021.09.27
+2022.10.15
