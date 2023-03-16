@@ -1,0 +1,1 @@
+https://lindarex.github.io/haproxy/ubuntu-haproxy-installation/
