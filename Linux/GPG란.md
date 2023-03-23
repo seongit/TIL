@@ -1,0 +1,1 @@
+GPG란? GNU Privacy Guard(GnuPG)의 OpenPGP 이다. OpenPGP 표준을 사용하여 디지털 암호화 및 서명 서비스를 제공하는 툴이다.
