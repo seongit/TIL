@@ -1,0 +1,1 @@
+mysql -u root -p ECP_ADMIN < 20230406_ECP_ADMIN.sql
