@@ -1,7 +1,7 @@
 두 개의 ArrayList, ArrayList1과 ArrayList2가 주어졌고, ArrayList1에서 ArrayList2에 있는 데이터를 찾아 activeAt 값을 "Y"로 변경하려면 다음과 같은 방법을 사용할 수 있습니다:
 
 java
-Copy code
+```
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -61,4 +61,5 @@ private String activeAt;
         this.activeAt = activeAt;
     }
 }
+```
 이 코드에서는 ArrayList2의 데이터를 빠르게 찾기 위해 arrayList2Lookup 맵을 사용하고, 그런 다음 ArrayList1을 반복하면서 arrayList2Lookup에 데이터가 있는 경우 activeAt 값을 "Y"로 업데이트합니다. 결과적으로 ArrayList1의 activeAt 값이 업데이트됩니다.
