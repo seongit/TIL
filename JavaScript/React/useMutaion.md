@@ -1,0 +1,8 @@
+- very similar to useQuery
+- Differences
+  - no cache data
+  - no retries
+  - no refetch
+  - no isLoading vs isFetching
+  - return mutate function which actually runs mutation
+  - onMutate callback (useful for optimistic queries)
